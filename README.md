@@ -1,6 +1,6 @@
 ## Welcome to my Github profile!
-# 💫 About Me:
-🚀 Young Web Development student with a passion for building things!<br>💡 Skilled in UI/UX design, wireframing, front-end & back-end development<br>📱 Exploring mobile apps, web apps & interactive 3D experiences<br>🎯 Always learning, always creating
+# About Me:
+🚀 Young Web Development with a passion for building things!<br>💡 Skilled in UI/UX design, wireframing, front-end & back-end development<br>📱 Exploring mobile apps, web apps & interactive 3D experiences<br>🎯 Always learning, always creating
 
 
 # 💻 Tech Stack:
